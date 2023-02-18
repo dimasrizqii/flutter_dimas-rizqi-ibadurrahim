@@ -11,9 +11,17 @@ Alterra Academy Kampus Merdeka Batch 4
 
 Tugas yang diberikan pada *section* ini adalah sebagai berikut.
 
-![Tugas Section 4](https://cobalt-bike-c9e.notion.site/Reguler-Flutter-Kelas-A-B-dan-C-9c38942dd9a54a5d81a9eeb375caf375?p=67261c5a40234ad48f25e9cc1e3e8688&pm=s)
+## **Soal Prioritas 1**
+> 1. Tuliskan 5 bahasa pemrograman untuk membuat aplikasi Mobile(contoh: C# untuk Desktop Windows)
+> 2. Cari dan tuliskan 5 aplikasi yang berjalan pada sistem operasi Android namun tidak pada sistem operasi iOS
 
-</br>
+## **Soal Prioritas 2**
+> 1. Cari dan tuliskan 5 aplikasi yang berjalan pada sistem operasi IOS namun tidak pada sistem operasi Android
+> 2. Cari 2 buah software yang dapat berjalan pada platform website dan juga Desktop!
+
+## **Soal Eksplorasi**
+> 1. Jelaskan perbedaan antara pengembangan aplikasi mobile secara hybrid (contoh: Flutter) dan pengembangan aplikasi mobile secara native (contoh: Kotlin untuk pengembangan aplikasi Android).
+> 2. Sebutkan contoh kasus yang tepat untuk pengembangan aplikasi mobile secara hybrid.
 
 ## **Hasil Kerja**
 
